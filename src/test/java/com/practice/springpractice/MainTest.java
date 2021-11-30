@@ -1,8 +1,6 @@
-package com.practice.javaoop;
+package com.practice.springpractice;
 
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class MainTest {
 

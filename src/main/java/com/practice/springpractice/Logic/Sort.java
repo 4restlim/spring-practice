@@ -1,4 +1,4 @@
-package com.practice.javaoop.Logic;
+package com.practice.springpractice.Logic;
 
 import java.util.List;
 
