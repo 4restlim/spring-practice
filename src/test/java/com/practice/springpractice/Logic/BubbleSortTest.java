@@ -19,7 +19,7 @@ class BubbleSortTest {
         List<Integer> actual = bubbleSort.sort(List.of(3, 2, 4, 5, 1));
 
         // Then
-        assertEquals(List.of(1, 2, 3, 3 ,4, 5), actual);
+        assertEquals(List.of(1, 2, 3 ,4, 5), actual);
 
     }
 
